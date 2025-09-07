@@ -1,8 +1,9 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #f9fafb;   /* svetlé pozadie */
+  --foreground: #111827;   /* tmavý text */
+  --accent: #d4af37;       /* zlatá */
 }
 
 @theme inline {
